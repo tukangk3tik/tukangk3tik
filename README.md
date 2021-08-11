@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="left">
+<a href="https://github.com/tukangk3tik">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tukangk3tik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tukangk3tik&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **tukangk3tik/tukangk3tik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
