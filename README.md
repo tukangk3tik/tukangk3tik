@@ -1,4 +1,4 @@
-### Hi there!👋, I'm Felix.
+### Hi there!👋 I'm Felix.
 
 - 🔭 I’m currently working as freelance software engineer
 
