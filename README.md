@@ -1,5 +1,7 @@
 ### Hi there!👋 I'm Felix.
 
+![](https://komarev.com/ghpvc/?username=tukangk3tik)
+
 - 🔭 I’m currently working as freelance software engineer
 
 <!--
