@@ -2,14 +2,16 @@
 
 - 🔭 I’m currently working as freelance software engineer
 - 🌱 I’m currently learning mobile development with Flutter
-<!--
+- 📫 Reach me: yanfreddrick@gmail.com
+
+
 <p align="left">
 <a href="https://github.com/tukangk3tik">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tukangk3tik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tukangk3tik&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
--->
+
 
 <!-- 
 Profile view
