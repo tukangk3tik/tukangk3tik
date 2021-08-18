@@ -1,6 +1,6 @@
 ### Hi there!👋 I'm Felix.
 
-- 🔭 I’m currently working as freelance software engineer
+- 🔭 I’m currently working as software developer
 - 🌱 I’m currently learning mobile development with Flutter
 - 📫 Reach me: yanfreddrick@gmail.com
 
