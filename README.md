@@ -1,6 +1,6 @@
 ### Hi there!👋 I'm Felix.
 
-- 🔭 I’m currently working as Back End Developer
+- 🔭 I’m currently working as Backend Developer
 <!-- - 🌱 I’m currently learning Back-End development with NodeJS -->
 - 📫 Reach me: yanfreddrick@gmail.com
 
