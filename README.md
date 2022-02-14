@@ -1,7 +1,7 @@
 ### Hi there!👋 I'm Felix.
 
 - 🔭 I’m currently working as Backend Developer
-<!-- - 🌱 I’m currently learning Back-End development with NodeJS -->
+- 🌱 I’m also learning Spring Boot
 - 📫 Reach me: yanfreddrick@gmail.com
 
 
