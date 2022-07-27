@@ -1,6 +1,6 @@
 ### Hi there!👋 I'm Felix.
 
-- 🔭 I’m currently working as Backend Developer (PHP)
+- 🔭 I’m currently working as Backend Developer (PHP & Go)
 - 🌱 I’m also learning Modern Spring Boot with Kotlin
 - 📫 Reach me: yanfreddrick@gmail.com
 
