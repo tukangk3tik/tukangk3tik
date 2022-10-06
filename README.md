@@ -1,9 +1,11 @@
-### Hi there!👋 I'm Felix.
+### Hello mates!👋 I'm Felix.
 
-- 🔭 I’m currently working as Backend Developer (PHP & Go)
-- 🌱 I’m also learning Modern Spring Boot with Kotlin
+- 🔭 I’m currently working as **Backend Developer**, but still can handle **Fullstack Development**
+- 🌱 I’m also still learn more about Go, and interested in JVM Backend technology
+- 👯 I’m looking to collaborate on opensource project which use Go, NodeJs, and JVM Stack
+- 💬 Let's talk about **tech**, **self improvement**, and **music** 
+- ⚡ Fun fact: One of the **random** people on earth
 - 📫 Reach me: yanfreddrick@gmail.com
-
 
 <p align="left">
 <a href="https://github.com/tukangk3tik">
