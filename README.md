@@ -1,7 +1,7 @@
 ### Hello mates!👋 I'm Felix.
 
 - 🔭 I’m currently working as **Backend Developer**, but still can handle **Fullstack Development**
-- 🌱 I’m also still learn more about Go, and interested in JVM Backend technology (especially Clojure)
+- 🌱 I’m also still learn more about **Go**, and interested in **JVM Backend** technology (especially Clojure)
 - 👯 I’m looking to collaborate on opensource project which use Go, NodeJs, and JVM Stack
 - 💬 Let's talk about **tech**, **self improvement**, and **music** 
 - ⚡ Fun fact: One of the **random** people on earth
