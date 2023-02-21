@@ -1,10 +1,10 @@
 ### Hello mates!👋 I'm Felix.
 
-- 🔭 I’m currently working as **Backend Developer**, but still can handle **Fullstack Development**, and **Android Development**
-- 🌱 I’m also still learn more about **Go**
+- 🔭 I currently pay my bill with **PHP**, **Javascript**, and **Kotlin**
+- 🌱 I like play around with **Go**, then diving into **Blockchain** technologies area, and how to **Manage Team**
 - 👯 I’m looking to collaborate on opensource project which use Go, NodeJs, and JVM Stack
-- 💬 Let's talk about **tech**, **self improvement**, **life journey**, and **music** 
-- ⚡ Fun fact: One of the **random** people on earth
+- 💬 Let's talk about **music**, **tech**, **self improvement**, and **life journey**
+- ⚡ Fun fact: O Bread lovers
 - 📫 Reach me: yanfreddrick@gmail.com
 
 <p align="left">
