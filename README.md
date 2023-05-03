@@ -1,10 +1,9 @@
 ### Hello mates!👋 I'm Felix.
 
-- 🔭 I currently pay my bill with **PHP**, **Javascript**, and **Kotlin**
-- 🌱 I like play around with **Go**, then diving into **Blockchain** technologies area, and learn more to **How Manage My Team**
+- 🔭 I currently pay my bill with **Javascript**, **PHP** and **Kotlin**
+- 🌱 I improve skills by learning **Blockchain** technologies, and learn more to **How Manage My Team**
 - 👯 I’m looking to collaborate on opensource project which use Go, NodeJs, and JVM Stack
 - 💬 Let's talk about **music**, **tech**, **self improvement**, and **life journey**
-- ⚡ Fun fact: O Bread lovers
 - 📫 Reach me: yanfreddrick@gmail.com
 
 <p align="left">
