@@ -1,7 +1,7 @@
 ### Hello mates!👋 I'm Felix.
 
 - 🔭 I currently pay my bill with **Javascript**, **PHP** and **Kotlin**
-- 🌱 I improve skills by learning **Data Engineering**, and learn more to **Being a Leader**
+- 🌱 I improve skills by learning **Data Engineering**, and learn to **Being a Good Leader**
 - 👯 I’m looking to collaborate on opensource project which use Go, NodeJs, and JVM Stack
 - 💬 Let's talk about **music**, **tech**, **self improvement**, and **life journey**
 - 📫 Reach me: yanfreddrick@gmail.com
