@@ -1,7 +1,7 @@
 ### Hello mates!👋 I'm Felix.
 
-- 🔭 I currently pay my bill with **Javascript**, **PHP** and **Kotlin**
-- 👯 I’m looking to collaborate on opensource project which use **Go**, **NodeJs**, and **JVM Stack**
+- 🔭 I currently working with **Typescript**, **Go**, **PHP**
+- 👯 I’m looking to collaborate on opensource project which use **Go** and **NodeJs**
 - 💬 Let's talk about **music**, **tech**, **gym**, **self improvement**, and **life journey**
 - 📫 Reach me: yanfreddrick@gmail.com
 
