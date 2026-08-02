@@ -1,6 +1,6 @@
 ### Hello mates!👋 I'm Felix.
 
-- 🔭 I currently working with **Typescript**, **Go**, **PHP**
+- 🔭 I currently working with **Typescript**, **Go**, **PHP** and assisted by AI 
 - 👯 I’m looking to collaborate on opensource project which use **Go** and **NodeJs**
 - 💬 Let's talk about **music**, **tech**, **gym**, **self improvement**, and **life journey**
 - 📫 Reach me: yanfreddrick@gmail.com
